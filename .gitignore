@@ -1,0 +1,8 @@
+.idea/
+project/target/
+target/
+.cache-main
+.classpath
+.project
+.settings/
+bin/
