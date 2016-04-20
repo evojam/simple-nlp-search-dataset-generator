@@ -9,7 +9,7 @@ import scala.io.Source
 import com.evojam.nlp.model._
 
 object Generator extends App {
-  val sampleSize = 100000
+  val sampleSize = 300000
 
   def filterNonAlphaChars(str: String) =
     str

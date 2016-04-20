@@ -10,8 +10,8 @@ case class Tag(value: String) {
 }
 
 object Tag {
-  val Date = Tag("DATE")
-  val Preposition = Tag("PREP")
+  val Date = Tag("TIME_EXPRESSION")
+  val Preposition = Tag("PREPOSITION")
   val MovieName = Tag("MOVIE_NAME")
   val MovieGenre = Tag("MOVIE_GENRE")
   val TheaterName = Tag("THEATER_NAME")
