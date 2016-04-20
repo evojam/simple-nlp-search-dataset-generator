@@ -1,3 +1,58 @@
-warsaw
-new york
-berlin
+San Francisco
+Santa Rosa
+Palo Alto
+San Jose
+Sacramento
+Redding
+Chico
+Merced
+Salinas
+Monterey
+Las Vegas
+Medford
+Portland
+Seattle
+Everett
+Salem
+Eugene
+Cheyenne
+Denver
+Salt Lake City
+Lincoln
+Kansas City
+Des Moines
+Sioux Falls
+Minneapolis
+Saint Louis
+Chicago
+Milwaukee
+Indianapolis
+Detroid
+Cleveland
+Pittsburgh
+Washington
+Philadelphia
+Louisville
+New York
+Boston
+Baltimore
+Richmond
+Durham
+Charleston
+Charlotte
+Atlanta
+Orlando
+New Orlean
+San Antonio
+Dallas
+Houston
+Albuquerque
+El Paso
+Phoenix
+Tucson
+San Digo
+Los Angeles
+Santa Barbara
+Bakersfield
+Fresno
+Palm Desert
